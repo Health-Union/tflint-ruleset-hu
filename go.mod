@@ -5,7 +5,7 @@ go 1.21
 require (
 	github.com/stretchr/testify v1.7.2
 	github.com/terraform-linters/tflint-plugin-sdk v0.18.0
-	github.com/zclconf/go-cty v1.14.2
+	github.com/zclconf/go-cty v1.14.3
 )
 
 require (
